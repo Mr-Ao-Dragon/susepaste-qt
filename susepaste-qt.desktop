@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=susepaste-qt
+Exec=susepaste-qt
+Icon=suse
+Type=Application
+Terminal=false
+X-KDE-StartupNotify=true
+Categories=Qt;

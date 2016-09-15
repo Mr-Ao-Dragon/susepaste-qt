@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=KonqPopupMenu/Plugin
+MimeType=all/all;
+Actions=susepaste;
+
+[Desktop Action susepaste]
+Icon=suse
+Name=Send to susepaste.org
+Name[pl]=Wyślij do susepaste.org
+Exec=susepaste-qt %F
